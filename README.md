@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Dugar</h1>
-<h3 align="center">Hi 👋, I am Kunal Dugar an enthusiastic and ambitious full stack developer. I specialise in Web Development, JavaScript and golang. I love to network, join new communities and add value ✨</h3>
+<h3 align="center">Hi 👋, I am Kunal Dugar an enthusiastic and ambitious full stack developer. I specialise in Web Development, JavaScript, Typescript and learning rust. I love to network, join new communities and add value ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal-511&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-511" /> </p>
 
