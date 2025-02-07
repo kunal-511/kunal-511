@@ -31,7 +31,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-511&layout=compact&theme=radical)
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-511&show_icons=true&locale=en" alt="kunal-511" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-511&" alt="kunal-511" /></p>
