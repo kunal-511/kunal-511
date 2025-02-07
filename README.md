@@ -28,10 +28,9 @@
 
 ## Contributions
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-511&layout=compact&theme=radic
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-511&layout=compact&theme=radical)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal-511&show_icons=true&locale=en&layout=compact" alt="kunal-511" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-511&show_icons=true&locale=en" alt="kunal-511" /></p>
 
