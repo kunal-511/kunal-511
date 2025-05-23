@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [BeatWave](https://github.com/kunal-511/beatWave)
 
-- 🌱 I’m currently learning ** Kubernetes, devops, web3**
+- 🌱 I’m currently learning **Kubernetes, devops, web3**
 
 - 📫 How to reach me **yoyokvunal@gmail.com**
 
