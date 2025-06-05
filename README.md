@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal-511" alt="kunal-511" /></a> </p>
 
-- 🔭 I’m currently working on [BeatWave](https://github.com/kunal-511/beatWave)
+- 🔭 I’m currently working on [Gitintel](https://github.com/kunal-511/gitintel)
 
 - 🌱 I’m currently learning **Kubernetes, devops, web3**
 
