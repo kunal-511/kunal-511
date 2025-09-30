@@ -1,12 +1,12 @@
+<h3 align="left">🚀 About Me<br>I’m a Full Stack Developer, DevOps and Open Source Enthusiast pursuing BTech at BITS Pilani. With a passion for cloud-native technologies, I’ve contributed 60+ pull requests to major open-source projects including Kubeflow, KubeStellar, Istio and CNCF initiatives.<br>🔭 Currently working as Intern at Google Summer of Code (Kubeflow) on Deploying Kubeflow with Helm Charts<br>🌱 Specialized in Kubernetes, Cloud Native, and DevOps<br>💡 Contributed to Linux Foundation & CNCF projects<br>🎯 Built production-grade applications with modern tech stacks<br>📫 Open to collaborations and full-time opportunities</h3>
+
+###
+
 <br clear="both">
 
 <div align="center">
   <img height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
-
-###
-
-<h3 align="left">🚀 About Me<br>I’m a Full Stack Developer, DevOps and Open Source Enthusiast pursuing BTech at BITS Pilani. With a passion for cloud-native technologies, I’ve contributed 60+ pull requests to major open-source projects including Kubeflow, KubeStellar, Istio and CNCF initiatives.<br>🔭 Currently working as Intern at Google Summer of Code (Kubeflow) on Deploying Kubeflow with Helm Charts<br>🌱 Specialized in Kubernetes, Cloud Native, and DevOps<br>💡 Contributed to Linux Foundation & CNCF projects<br>🎯 Built production-grade applications with modern tech stacks<br>📫 Open to collaborations and full-time opportunities</h3>
 
 ###
 
