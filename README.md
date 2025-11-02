@@ -1,10 +1,6 @@
-<div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:172a45,100:00d4ff&height=300&section=header&text=Hi%20there!%20I%27m%20Kunal%20Dugar%20%F0%9F%91%8B&fontSize=50&fontColor=64ffda&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Open%20Source%20Contributor&descSize=20&descAlignY=55)
 
-</div>
 
-<h3 align="left">🚀 About Me<br>I'm a Full Stack Developer, DevOps and Open Source Enthusiast pursuing BTech at BITS Pilani. With a passion for cloud-native technologies, I've contributed 60+ pull requests to major open-source projects including Kubeflow, KubeStellar, Istio and CNCF initiatives.<br>🔭 Currently working as Intern at Google Summer of Code (Kubeflow) on Deploying Kubeflow with Helm Charts<br>🌱 Specialized in Kubernetes, Cloud Native, and DevOps<br>💡 Contributed to Linux Foundation & CNCF projects<br>🎯 Built production-grade applications with modern tech stacks<br>📫 Open to collaborations and full-time opportunities</h3>
+<p align="left">🚀 About Me<br>I'm a Full Stack Developer, DevOps and Open Source Enthusiast pursuing BTech at BITS Pilani. With a passion for cloud-native technologies, I've contributed 60+ pull requests to major open-source projects including Kubeflow, KubeStellar, Istio and CNCF initiatives.<br>🔭 Currently working as Intern at Google Summer of Code (Kubeflow) on Deploying Kubeflow with Helm Charts<br>🌱 Specialized in Kubernetes, Cloud Native, and DevOps<br>💡 Contributed to Linux Foundation & CNCF projects<br>🎯 Built production-grade applications with modern tech stacks<br>📫 Open to collaborations and full-time opportunities</p>
 
 ###
 
